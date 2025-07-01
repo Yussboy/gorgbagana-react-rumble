@@ -1,48 +1,62 @@
-# gorgbagana-react-rumble
-A fast PvP reaction duel game built on gorgbagana testnet.
-# GORBAGANA REACT RUMBLE
+# Gorbagana React Rumble
 
-A fast PvP reaction duel game built on the Gorbagana testnet to showcase instant finality and fairness.
+A **tap reaction game built on Gorbagana testnet** to showcase its zero-MEV, instant finality, and fast, fair on-chain game potential.
 
 ---
 
-## 🎮 Overview
+## 🚀 Game Overview
 
-GORBAGANA REACT RUMBLE is a simple, fun multiplayer game:
-- Two players pay entry in Gorbagana test tokens.
-- Wait for the “GORBAGANA” signal.
-- First player to click wins the pot + points.
-- Highlights Gorbagana’s zero-MEV, instant finality, and speed.
+**GORBAGANA REACT RUMBLE** is a simple, replayable multiplayer reaction game:
 
----
-
-## 🛠️ Gorbagana Integration
-
-✅ Uses Gorbagana native test tokens for:
-- Entry fees
-- Reward payouts
-- Leaderboard scoring
-
-✅ Uses **Backpack wallet** for seamless connection on the Gorbagana testnet.
-
-✅ Built with Solana’s tooling and infrastructure.
+- Players pay a small Gorbagana testnet fee to enter.
+- React to the "TAP NOW" prompt as fast as possible.
+- Winners receive Gorbagana test token rewards instantly.
+- Built to demonstrate how fast and fair a one-validator chain can be for multiplayer experiments.
 
 ---
 
-## 🚀 How to Play
+## ⚡ Gorbagana Integration
 
-1️⃣ Connect your Backpack wallet (on Gorbagana testnet).  
-2️⃣ Pay entry fee with Gorbagana test tokens.  
-3️⃣ Wait for the “GORBAGANA” signal.  
-4️⃣ First to tap wins the pot.  
-5️⃣ Track your wallet address on the leaderboard.
+- Built on **Solana-based Gorbagana testnet** with zero-MEV execution.
+- Uses test tokens as **entry fee and payout rewards**.
+- Fast transactions with instant finality on-chain.
+- Supports **Backpack wallet connection**.
 
 ---
 
-## 🧑‍💻 Running Locally
+## 🛠️ How to Run Locally
 
-```bash
-git clone https://github.com/YOUR_USERNAME/gorbagana-react-rumble.git
-cd gorbagana-react-rumble
-npm install
-npm run dev
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Yussboy/gorbagana-react-rumble.git
+    cd gorbagana-react-rumble
+    ```
+2. Open `index.html` in your browser.
+3. Connect your Backpack wallet connected to the Gorbagana testnet with test tokens.
+4. Tap **Start Game** and react quickly to win!
+
+---
+
+## 🎮 Live Demo
+
+Play live here:  
+https://incandescent-lily-c0f8d9.netlify.app
+
+---
+
+## 🪙 Requirements
+
+- **Backpack wallet** connected to the Gorbagana testnet with test tokens.
+- A browser supporting wallet injection (Brave/Chrome).
+
+---
+
+## 🔗 Submission Tweet
+
+[https://x.com/Omvext/status/1940170606428795028?t=q_rEzSO9I9QNxN6bSp9cNg&s=19]
+
+---
+
+## License
+
+MIT
